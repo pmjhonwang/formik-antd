@@ -4,6 +4,12 @@
 
 [CodeSandbox](https://codesandbox.io/s/x2941k7vpz)
 
+
+:warning: new npm package name: **formik-antd**
+
+> from version 1.6 and onwards this library is published under `formik-antd`, all previous versions are available under `@jbuschke/formik-antd`
+
+
 # formik-antd
 
 Simple declarative bindings for [Ant Design](https://ant.design/docs/react/introduce) and [Formik](https://github.com/jaredpalmer/Formik).
